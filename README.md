@@ -4,8 +4,6 @@
 👑 Core Member, Cultural Committee "Riwayat"  
 📊 Aspiring Data Analyst & Data Scientist
 
----
-
 ## 🚀 About Me
 
 - Currently pursuing BBA (Second Year)
@@ -13,8 +11,6 @@
 - Core member of my college's cultural committee **"Riwayat"**
 - Passionate about data, analytics, and creative initiatives
 - Exploring and growing in the world of tech, data science, and machine learning
-
----
 
 ## 🎯 Skills & Learning Journey
 
@@ -28,17 +24,14 @@
   - Deloitte’s Data Analytics & Forensic Technology Virtual Job Simulation via Forage.
 - **Certifications:**  
   - Advanced Excel
-  - Machine Learning (in progress)
-
----
+  - Completed internship in Data Analytics with FISD 
 
 ## 🏆 Achievements
 
 - Completed multiple courses and certifications in Data Analytics & Science
 - Participated in **Commparv 2.0** Power BI competition
 - Active contributor and organizer in college events as part of "Riwayat"
-
----
+- completed EY Skills Passport 
 
 ## 🌱 Currently Learning
 
@@ -46,16 +39,12 @@
 - Exploring new data visualization and analytics tools
 - Advanced Python for data science
 
----
-
 ## 📫 Let's Connect!
 
 - [LinkedIn](#) (www.linkedin.com/in/
 aishwarya-kalra-96069a323
 )
 - Email: (aishwaryakalra1402@gmail.com)
-
----
 
 Thanks for visiting my profile! 😊  
 Feel free to connect for collaboration, project ideas, or just to say hi!
