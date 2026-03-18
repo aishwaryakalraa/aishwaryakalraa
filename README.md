@@ -18,13 +18,17 @@
 - **Projects:**  
   - Rock Paper Scissors Game  
   - Movie Ticket Project  
-  - Many more mini-projects in data analytics and ML
+  - Many more mini-projects in data analytics
 - **Internships:**  
   - 2-month internship at **Skillfied Mentor** (tools, ML, Seaborn, etc.)
   - Deloitte’s Data Analytics & Forensic Technology Virtual Job Simulation via Forage.
+  - Ongoing intern at **Prodigy Infotech**
 - **Certifications:**  
   - Advanced Excel
-  - Completed internship in Data Analytics with FISD 
+  - Completed internship in Data Analytics with FISD
+  - COMPLETED 1 WEEK CERTIFICATION WORKSHOP COURSE OF ADVANCE EXCEL AND POWER BI
+  - COMPLETED EY AND MICROSOFT SKILLS PASSPORT .
+  
 
 ## 🏆 Achievements
 
